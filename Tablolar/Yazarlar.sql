@@ -1,4 +1,0 @@
-CREATE TABLE Yazarlar (
-    YazarID INT PRIMARY KEY IDENTITY(1,1),
-    YazarAdi NVARCHAR(50) NOT NULL
-);
